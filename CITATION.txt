@@ -1,0 +1,4 @@
+Lapresa M, Zollo L and Cordella F (2022),
+A user-friendly automatic toolbox for hand kinematic analysis, clinical assessment and postural synergies extraction.
+Front. Bioeng. Biotechnol. 10:1010073.
+doi: 10.3389/fbioe.2022.1010073
