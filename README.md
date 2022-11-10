@@ -7,7 +7,7 @@ LICENSE: Apache License, Version 2.0
 
 ************************************
 
-This is an open source toolbox to perform all-in-one kinematic analysis, clinical assessment of the hand, and postural synergies extraction and analysis. It takes as input the position of retroreflective markers placed on specific anatomical landmarks of the hand and automatically performs:
+This is an open source MATLAB toolbox to perform all-in-one kinematic analysis, clinical assessment of the hand, and postural synergies extraction and analysis. It takes as input the position of retroreflective markers placed on specific anatomical landmarks of the hand and automatically performs:
 
 1) hand kinematic analysis (i.e., it computes 23 joint angles);
 2) clinical assessment (i.e., it computes indicators that allow quantifying movement efficiency (Peak Grip Aperture), smoothness (Normalized Dimensionless Jerk Grasp Aperture) and speed (Peak Velocity of Grasp Aperture), planning capabilities (Time to Peak Grip Aperture), spatial posture (Wrist and Finger Joint Angles) and grasp stability (Posture of Hand Finger Joints);
